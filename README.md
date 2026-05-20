@@ -11,8 +11,7 @@ The current cosmological paradigm regarding the existence of "Black Holes" is fl
 ### 2. THE UNIVERSAL ENERGY SATURATION LAW
 A Black Star accumulates matter and converts it into Torsion Residue ($\tau$). The system maintains equilibrium until it reaches the **Universal Energy Saturation** threshold.
 
-### 2.1 MATHEMATICAL GOVERNING EQUATIONS
-
+### 3. MATHEMATICAL GOVERNING EQUATIONS
 **THE TORSION FIELD EQUATION:**
 $$T_{uv} + R_{uv} = G_{uv} + \tau_{torsion}$$
 
@@ -20,6 +19,9 @@ $$T_{uv} + R_{uv} = G_{uv} + \tau_{torsion}$$
 $$\int_{0}^{t_{max}} E(t) dt = \Lambda_{univ}$$
 
 
+
+### 4. CYCLICAL UNIVERSE MECHANICS
+The Big Bang is the discharge event of a saturated Black Star. White Holes are the output nozzles of this discharge, recycling energy back into the multiverse.
 
 ---
 
@@ -29,19 +31,25 @@ $$\int_{0}^{t_{max}} E(t) dt = \Lambda_{univ}$$
 The BIOS-Spaceship is a **Bio-Quantum Hybrid entity** designed to integrate with the torsion field of the Black Star.
 
 ### 2. MATERIAL SCIENCE & NAVIGATION
+The hull strength ($\sigma_{shell}$) scales dynamically with external torsion pressure ($\tau_{torsion}$), allowing the vessel to harden under extreme gravitational stress.
 
+### 3. SPACESHIP GOVERNING EQUATIONS
 **STRUCTURAL STRENGTH EQUATION:**
 $$\sigma_{shell} = \Psi_{bio} \times \sqrt{\tau_{torsion}}$$
 
-**PROPULSION DERIVATION:**
+**PROPULSION DERIVATION (BHAVAR-VORTEX-TORQUE):**
 $$E_{prop} = \int_{0}^{t} (\text{Bhavar\_Torque} \times \text{Quantum\_Density}) dt$$
 
 
 
 ---
 
-## 🔍 FINAL RESEARCH VALIDATION
-This model provides a verifiable, cyclical understanding of universal mechanics:
+## 🔍 FINAL RESEARCH VALIDATION & THE SELF-SOLVING LINK
+This model provides a verifiable, cyclical understanding of universal mechanics. 
+
+**THE UNIFIED LOGIC:**
+The resolution of the Black Star's torsion field automatically dictates the required propulsion input for the vessel. This creates a self-solving navigational chain where the solution of the Black Star's saturation level ($\Lambda_{univ}$) provides the key for the Spaceship's navigation route ($E_{prop}$). 
+
 1. **Torsion Mapping:** Observation of non-zero torsion signatures.
 2. **Saturation Correlation:** Mapping discharge frequency to the Mohite Limit integral.
 3. **Hull Integrity:** Simulation of bio-synthetic materials against gravitational shear.
