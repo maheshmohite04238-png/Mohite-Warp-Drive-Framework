@@ -37,7 +37,7 @@ The hull strength ($\sigma_{shell}$) scales dynamically with external torsion pr
 **STRUCTURAL STRENGTH EQUATION:**
 $$\sigma_{shell} = \Psi_{bio} \times \sqrt{\tau_{torsion}}$$
 
-**PROPULSION DERIVATION (BHAVAR-VORTEX-TORQUE):**
+**(PROPULSION DERIVATION (BHAVAR-VORTEX-TORQUE):**
 $$E_{prop} = \int_{0}^{t} (\text{Bhavar\_Torque} \times \text{Quantum\_Density}) dt$$
 
 
