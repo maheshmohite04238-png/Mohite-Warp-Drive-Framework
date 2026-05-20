@@ -15,8 +15,11 @@ Traditional physics posits the Singularity as a point of infinite density. The M
 A Black Star accumulates matter and converts it into Torsion Residue ($\tau$). The system maintains equilibrium until it reaches the **Universal Energy Saturation** threshold.
 
 **Mathematical Governing Equations:**
-* **The Torsion Field Equation:** $$T_{uv} + R_{uv} = G_{uv} + \tau_{torsion}$$
-* **The Saturation Integral (The Mohite Limit):** $$\int_{0}^{t_{max}} E(t) dt = \Lambda_{univ}$$
+* **The Torsion Field Equation:**
+$$T_{uv} + R_{uv} = G_{uv} + \tau_{torsion}$$
+
+* **The Saturation Integral (The Mohite Limit):**
+$$\int_{0}^{t_{max}} E(t) dt = \Lambda_{univ}$$
 *(Where $\Lambda_{univ}$ represents the total energy density of the observable universe.)*
 
 
@@ -37,8 +40,8 @@ The BIOS-Spaceship is a **Bio-Quantum Hybrid entity**. It does not combat gravit
 ### 2. MATERIAL SCIENCE: THE ADAPTIVE HULL
 * **Bio-Quantum Meta-materials:** The shell utilizes an organic lattice capable of real-time atomic restructuring.
 * **Torsion-Hardening:** The hull strength ($\sigma_{shell}$) scales dynamically with external torsion pressure ($\tau_{torsion}$):
-  $$\sigma_{shell} = \Psi_{bio} \times \sqrt{\tau_{torsion}}$$
-  *($\Psi_{bio}$ is the biological adaptation coefficient.)*
+$$\sigma_{shell} = \Psi_{bio} \times \sqrt{\tau_{torsion}}$$
+*($\Psi_{bio}$ is the biological adaptation coefficient.)*
 
 ### 3. NAVIGATION: THE VORTEX SURFING PROTOCOL
 The ship harvests energy from the Black Star's rotation. The "Bhavar-Vortex-Torque" is the primary propulsion source.
